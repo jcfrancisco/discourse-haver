@@ -1,0 +1,22 @@
+{
+  "name": "discourse-haver",
+  "version": "1.0.0",
+  "description": "Twitter bot that talks to people",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcfrancisco/discourse-haver.git"
+  },
+  "author": "Carlo Francisco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcfrancisco/discourse-haver/issues"
+  },
+  "homepage": "https://github.com/jcfrancisco/discourse-haver#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
