@@ -1,3 +1,9 @@
+# Compiled output
+/lib
+
+# config
+/src/config.js
+
 # Logs
 logs
 *.log

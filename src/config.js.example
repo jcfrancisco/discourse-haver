@@ -1,0 +1,6 @@
+export default {
+  TWITTER_CONSUMER_KEY: 'aaa',
+  TWITTER_CONSUMER_SECRET: 'bbb',
+  TWITTER_ACCESS_TOKEN_KEY: 'ccc',
+  TWITTER_ACCESS_TOKEN_SECRET: 'ddd'
+};
